@@ -16,3 +16,5 @@ npm install -g npm
 npm install -g typescript typescript-language-server
 
 nvim --headless +PlugInstall +qall
+
+npm install -g yarn
