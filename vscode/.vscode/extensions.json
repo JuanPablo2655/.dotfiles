@@ -11,6 +11,8 @@
 		"icrawl.discord-vscode",
 		"ms-azuretools.vscode-docker",
 		"github.copilot",
-		"prisma.prisma"
+		"prisma.prisma",
+		"usernamehw.errorlens",
+		"streetsidesoftware.code-spell-checker"
 	]
 }
