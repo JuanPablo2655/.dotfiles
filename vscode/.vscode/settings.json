@@ -1,0 +1,39 @@
+{
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"diffEditor.wordWrap": "on",
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 120,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 120,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.fontFamily": "JetBrains Mono, 'monospace', monospace",
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+	"workbench.colorTheme": "Vitesse Dark Soft",
+	"workbench.productIconTheme": "icons-carbon",
+	"workbench.iconTheme": "spectrum-vscode-icons",
+	"editor.inlineSuggest.enabled": true,
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": false,
+		"typescript": true
+	}
+}
+
