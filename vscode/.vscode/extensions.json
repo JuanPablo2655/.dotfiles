@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"antfu.icons-carbon",
+    		"antfu.theme-vitesse",
+		"alexperronnet.spectrum-vscode-icons",
+		"icrawl.discord-vscode",
+		"ms-azuretools.vscode-docker",
+		"github.copilot",
+		"prisma.prisma"
+	]
+}
