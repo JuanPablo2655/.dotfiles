@@ -5,6 +5,7 @@ stow nvim
 stow personal
 stow tmux
 stow zsh
+stow vscode
 
 sudo chsh -s $(which zsh) $USER
 
